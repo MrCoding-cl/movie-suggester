@@ -1,4 +1,0 @@
-postgres database connection
-
-user:gabriel
-password:wso
